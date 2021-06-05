@@ -1,0 +1,44 @@
+/* shadow-5 */
+.card {
+    background-color: lightblue;
+    padding: 2rem;
+    margin: 1rem;
+    display: flex;
+    flex-flow: column;
+    align-items: flex-start;
+    border-radius: .5rem;
+    border-width: .25rem;
+    width: 280px;
+    min-height: 7em;
+    box-shadow: 4px 4px 8px 0px rgba( 0, 0, 0, 0.2 );
+}
+.info {
+    display: flex;
+    flex-flow: column;
+    min-height: 3.6em;
+    line-height: 1.2em;
+    align-items: flex-start;
+}
+
+h2 {
+    margin-top: 15px;
+    margin-bottom: 0px;
+    font-family: lobster;
+}
+
+h5 {
+    margin-bottom: 0px;
+    font-family: pacifico;
+    font-weight: normal;
+}
+
+p {
+    margin-bottom: 0px;
+}
+
+.cardlist {
+    display: inline-flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}

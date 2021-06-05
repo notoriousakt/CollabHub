@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'lobster';
+    src: local('lobster'),
+         url('./fonts/Lobster-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'pacifico';
+    src: local('pacifico'),
+         url('./fonts/Pacifico-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'parisienne';
+    src: local('parisienne'),
+         url('./fonts/Parisienne-Regular.ttf') format('truetype');
+}

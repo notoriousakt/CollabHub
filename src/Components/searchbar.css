@@ -1,0 +1,7 @@
+.bar {
+    padding: 1rem;
+    border-style: solid; 
+    border-width: 1px;
+    background-color: lightcyan;
+    border-color: blue;
+}
