@@ -40,4 +40,11 @@ export const people = [{
         tech: ['HTML', 'CSS', 'C++', 'C'],
         image: "https://cdn.vox-cdn.com/thumbor/jZiVyJEmmBXXS-7IRqMUPUAA4jM=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/8720401/ktokatitmir0.jpg"
     },
+    {
+        name: "Akshat Tyagi",
+        email: "akshattyagi97674@gmail.com",
+        tech: ['HTML', 'CSS', 'C++', 'C'],
+        image: "https://cdn.vox-cdn.com/thumbor/jZiVyJEmmBXXS-7IRqMUPUAA4jM=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/8720401/ktokatitmir0.jpg"
+    },
+
 ];
